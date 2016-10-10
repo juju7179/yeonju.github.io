@@ -37,10 +37,13 @@ website
 	<li>item3</li>
 </ol>
 
+#### 비순차 목록
 - item1
 - item2
 - item3
 
+
+#### 순차 목록
 1. item1
 2. item2
 3. item3
