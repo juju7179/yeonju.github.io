@@ -64,7 +64,7 @@ website
 
 ![NEO](http://cfile27.uf.tistory.com/image/234A2C3E546C1BAB04CC4F)
 
-![NEO](./Assets/neo.png"NEO")
+![NEO](Assets/neo.png "NEO")
 
 ### 하이퍼 링크
 ```html
