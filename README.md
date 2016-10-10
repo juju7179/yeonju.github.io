@@ -60,6 +60,7 @@ website
 ```html
 <img src="http://cfile27.uf.tistory.com/image/234A2C3E546C1BAB04CC4F" alt="NEO">
 ```
+<img src="http://cfile27.uf.tistory.com/image/234A2C3E546C1BAB04CC4F" alt="NEO" width="100" height="100" >
 
 ![NEO](http://cfile27.uf.tistory.com/image/234A2C3E546C1BAB04CC4F)
 
