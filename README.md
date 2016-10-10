@@ -55,5 +55,12 @@ website
 2. item2
 3. item3
 
+### 이미지
+
+```html
+<img src="http://cfile27.uf.tistory.com/image/234A2C3E546C1BAB04CC4F.jpg" alt="NEO">
+```
+
+![NEO](http://cfile27.uf.tistory.com/image/234A2C3E546C1BAB04CC4F.jpg)
 
 
